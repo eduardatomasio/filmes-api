@@ -4,6 +4,8 @@ namespace FilmesAPI.Models;
 
 public class Filme
 {
+    public int Id { get; set; }
+
     [Required(ErrorMessage = "O título é um campo obrigatório")]
     [MaxLength(300, ErrorMessage = "O campo título não pode exceder 300 caracteres")]
     public string Titulo { get; set; }
@@ -15,4 +17,5 @@ public class Filme
     [Range (70, 600, ErrorMessage = "A duração do filme deve ter de 70 a 600 minutos")]
 
     public int Duracao { get; set; }
+    
 }
