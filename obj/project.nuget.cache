@@ -1,17 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "8FsP8xmNghyYLPBaHz4ET9rNpwPahRkwAiwhdaRUj0itX24gKpmH7mXMX/SAQFAzTcwaiuKbTRKfCGdffW/O9Q==",
+  "dgSpecHash": "XIsYp5LTWtkoJlm4tOGrzHBA/rI7DYal5qn9j94ysJHSLYInjeWA2w5e1YdXsYZ3I/A+fS+/+06zbl+bhP5q9w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Fernando Tomasio\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
     "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.9\\microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",
     "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.9\\microsoft.entityframeworkcore.analyzers.7.0.9.nupkg.sha512",
     "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.9\\microsoft.entityframeworkcore.design.7.0.9.nupkg.sha512",
+    "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\microsoft.entityframeworkcore.proxies\\7.0.9\\microsoft.entityframeworkcore.proxies.7.0.9.nupkg.sha512",
     "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.9\\microsoft.entityframeworkcore.relational.7.0.9.nupkg.sha512",
     "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.9\\microsoft.entityframeworkcore.tools.7.0.9.nupkg.sha512",
     "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
@@ -34,6 +36,7 @@
     "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
+    "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\Fernando Tomasio\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
