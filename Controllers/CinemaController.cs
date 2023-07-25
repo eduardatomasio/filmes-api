@@ -1,9 +1,8 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using FilmesAPI.Data;
-using FilmesAPI.Dtos;
 using FilmesAPI.Models;
-using FilmesApi.Data.Dtos;
+using FilmesAPI.Dtos.Cinema;
 
 namespace FilmesApi.Controllers
 {

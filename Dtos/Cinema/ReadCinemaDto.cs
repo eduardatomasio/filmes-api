@@ -1,4 +1,4 @@
-﻿namespace FilmesApi.Data.Dtos
+﻿namespace FilmesAPI.Dtos.Cinema
 {
     public class ReadCinemaDto
     {
